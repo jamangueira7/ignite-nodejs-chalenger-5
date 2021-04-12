@@ -1,4 +1,4 @@
-<img alt="GoStack" src=".github/rocketseat.png" />
+<img alt="GoStack" src=".github/rocketseat.png" align="center" />
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,7 +21,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Npm](https://www.npmjs.com/) - 6.14.5
 - [Docker](https://www.docker.com/) - 19.03.8
 - [Potgres](https://www.postgresql.org/) 
-
 
 ## 💻 Projeto
 
