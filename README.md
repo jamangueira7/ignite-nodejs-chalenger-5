@@ -19,6 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [NodeJS](https://nodejs.org/en/) - 0.63.3
 - [Yarn](https://yarnpkg.com/) - 1.22.4
 - [Npm](https://www.npmjs.com/) - 6.14.5
+- [Docker](https://www.docker.com/) - 19.03.8
+- [Potgres](https://www.postgresql.org/) 
 
 
 ## 💻 Projeto
